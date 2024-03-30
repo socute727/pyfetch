@@ -10,6 +10,10 @@ cd pyfetch
 
 chmod +x ~/pyfetch/installpyfetch
 
+chmod +x ~/pyfetch/dependences
+
+~/pyfetch/dependences
+
 sudo ~/pyfetch/installpyfetch
 
 pyfetch
