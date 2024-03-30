@@ -1,1 +1,1 @@
-cp pyfetch/pyfetch /bin/ && chmod +x /bin/pyfetch
+cp pyfetch /bin/ && chmod +x /bin/pyfetch
