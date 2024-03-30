@@ -28,7 +28,7 @@ chmod +x ~/pyfetch/dependences
 
 sudo ~/pyfetch/installpyfetch
 
-**Screenshots**
+**Screenshots:**
 
 ![image](https://github.com/socute727/pyfetch/assets/152518983/a70c382f-e860-4221-a309-7ae9b415bcbc)
 
