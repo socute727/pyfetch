@@ -1,7 +1,3 @@
-**pyfetch**
-
-written entirely in Python
-
 **Supported distros**
 
 Arch 
