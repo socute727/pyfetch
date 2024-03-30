@@ -52,7 +52,7 @@ elif distr == "Ubuntu":
     f(" \\___/|_.__/ \\__,_|_| |_|\\__|\\__,_|          RAM:", round(memoryUse, 2),"/", round(memoryTotalr, 2),"GB")
     f("")
 
-elif distr == "Debian Linux":
+elif distr == "Debian GNU/Linux":
     f("  ____       _     _              ")               
     f(" |  _ \\  ___| |__ (_) __ _ _ __                  ",os.path.expanduser('~'))       
     f(" | | | |/ _ \\ '_ \\| |/ _` | '_ \\                  --------------------------------------")
