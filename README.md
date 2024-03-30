@@ -1,2 +1,2 @@
 # pyfetch
-fetch that fully written on python
+written entirely in Python
