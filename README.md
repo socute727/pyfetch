@@ -8,6 +8,12 @@ Debian
 
 Fedora
 
+**Dependences**
+
+python3 
+
+python3-pip
+
 **Installation guide**
 
 git clone https://github.com/socute727/pyfetch
@@ -22,7 +28,6 @@ chmod +x ~/pyfetch/dependences
 
 sudo ~/pyfetch/installpyfetch
 
-(you also need to install python3 and python3-pip)
 
 ![image](https://github.com/socute727/pyfetch/assets/152518983/a70c382f-e860-4221-a309-7ae9b415bcbc)
 
