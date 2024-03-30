@@ -1,4 +1,4 @@
-**Supported distros**
+**Supported distros:**
 
 Arch 
 
@@ -8,13 +8,13 @@ Debian
 
 Fedora
 
-**Dependences**
+**Dependences:**
 
 python3 
 
 python3-pip
 
-**Installation guide**
+**Installation guide:**
 
 git clone https://github.com/socute727/pyfetch
 
