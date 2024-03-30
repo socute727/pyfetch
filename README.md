@@ -20,9 +20,6 @@ pyfetch
 
 (you also might need to install python and python-pip)
 
-![2024-03-30_18-27](https://github.com/socute727/pyfetch/assets/152518983/7cf423f7-9fd2-4b68-aa1d-6b9226df2b75)
-
-
-
+![image](https://github.com/socute727/pyfetch/assets/152518983/a70c382f-e860-4221-a309-7ae9b415bcbc)
 
 P.S. Windows version soon
