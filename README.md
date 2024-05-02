@@ -34,5 +34,6 @@ $ sudo ~/pyfetch/installpyfetch
 **Screenshots:**
 ------------------------------------------------------------------------------------------------------
 
-![2024-05-02_21-19](https://github.com/socute727/pyfetch/assets/152518983/a09e650a-6491-4c57-a6c4-8e7da31fc41f)
+
+![2024-05-02_21-30](https://github.com/socute727/pyfetch/assets/152518983/fa75b28d-1f2d-4d65-bbcd-c7df4925b23d)
 
