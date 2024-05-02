@@ -36,6 +36,7 @@ cd pyfetch
 chmod +x ~/pyfetch/installpyfetch
 
 sudo ~/pyfetch/installpyfetch
+
 ------------------------------------------------------------------------------------------------------
 **Screenshots:**
 
