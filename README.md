@@ -14,6 +14,11 @@ python3
 
 python3-pip
 
+pip libs such: 
+**- distro** 
+**- psutil**
+**- py-cpuinfo**
+ 
 **Installation guide:**
 
 git clone https://github.com/socute727/pyfetch
@@ -21,10 +26,6 @@ git clone https://github.com/socute727/pyfetch
 cd pyfetch
 
 chmod +x ~/pyfetch/installpyfetch
-
-chmod +x ~/pyfetch/dependences
-
-~/pyfetch/dependences
 
 sudo ~/pyfetch/installpyfetch
 
