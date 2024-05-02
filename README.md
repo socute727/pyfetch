@@ -16,7 +16,9 @@ python3-pip
 
 pip libs such: 
 **- distro** 
+
 **- psutil**
+
 **- py-cpuinfo**
  
 **Installation guide:**
