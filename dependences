@@ -1,1 +1,0 @@
-pip install py-cpuinfo --break-system-packages &&  pip install distro --break-system-packages && pip install  psutil --break-system-packages
